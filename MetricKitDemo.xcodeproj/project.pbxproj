@@ -6,8 +6,13 @@
 	objectVersion = 90;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		9802D2703033D0B700948D3E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9802D26F3033D0B700948D3E /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* MetricKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MetricKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9802D26F3033D0B700948D3E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -30,6 +35,7 @@
 		000000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
+				9802D26F3033D0B700948D3E /* README.md */,
 				000000000000000000000010 /* MetricKitDemo */,
 				000000000000000000000020 /* Products */,
 			);
@@ -102,6 +108,7 @@
 		000000000000000140000000 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				9802D2703033D0B700948D3E /* README.md in Resources */,
 			);
 		};
 /* End PBXResourcesBuildPhase section */
